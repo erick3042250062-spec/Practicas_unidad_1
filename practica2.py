@@ -26,7 +26,6 @@ class Coches:
 
 coche1=Coches('Blanco','VW',220)
 coche2=Coches('Azul','Nissan',180)
-print(f"El color del coche 1 es: {coche1.__color}")
 
 
 
